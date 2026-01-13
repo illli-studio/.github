@@ -1,40 +1,53 @@
 <p align="center">
-  <a href="https://illli.cc">
-    <img width="88" src="/photo/illli.png">
-  </a>
+  <a href="https://illli.cc"><img width="80" src="/photo/illli.png"></a>
+  <br><br>
+  <b>illli Ai Studio</b>
+  <br>
+  <sub>Independent AI Lab · Crafting Intelligent Experiences</sub>
 </p>
 
-<h1 align="center">illli Ai Studio</h1>
-
 <p align="center">
-  <code>Independent AI Lab · Crafting Intelligent Experiences</code>
+  <img src="https://img.shields.io/badge/AI-Native-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/2025--2026-Active-blue?style=flat-square"/>
 </p>
 
 ---
 
-### 🎯 Focus
+<table align="center">
+<tr>
+<td width="280" valign="top">
 
-构建 AI 原生应用，探索下一代人机交互体验。
+**🎯 Focus**
 
-**智能工具** — AI 驱动的效率与创作工具  
-**创意应用** — 图像、文本、音视频生成与处理  
-**创新实验** — Web3、新交互范式、前沿技术落地
+构建 AI 原生应用  
+探索下一代人机交互
 
-### 💡 Philosophy
+`智能工具` `创意应用` `创新实验`
 
-```
-小团队，大产出 — 一人精锐，胜过百人平庸
-快迭代，深思考 — 周级发布，年级规划
-不追风，造风口 — 独立判断，长期主义
-```
+</td>
+<td width="280" valign="top">
 
-### 🛠 Tech
+**💡 Philosophy**
 
-`OpenAI` `Claude` `LangChain` `Stable Diffusion`  
-`React` `Next.js` `Node.js` `Python` `Go`
+小团队，大产出  
+快迭代，深思考  
+不追风，造风口
+
+</td>
+<td width="280" valign="top">
+
+**🛠 Stack**
+
+`OpenAI` `Claude` `LangChain`  
+`React` `Next.js` `Python` `Go`
+
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <sub>© 2025-2026 illli Ai Studio</sub>
+  <sub>© 2025-2026 illli Ai Studio · <a href="https://illli.cc">illli.cc</a></sub>
 </p>
