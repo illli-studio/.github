@@ -1,78 +1,65 @@
-<div align="center">
+<p align="center">
+  <a href="https://illli.cc"><img width="80" src="/photo/illli.png"></a>
+  <br><br>
+  <b>illli Ai Studio</b>
+  <br>
+  <sub>Independent AI Lab · Crafting Intelligent Experiences</sub>
+</p>
 
-<a href="https://illli.cc"><img width="88" src="/photo/illli.png"></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Native-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/2025--2026-Active-blue?style=flat-square"/>
+</p>
 
-# illli Ai Studio
+---
 
-[![AI Native](https://img.shields.io/badge/🤖_AI-Native-blueviolet?style=for-the-badge)](https://illli.cc)
-[![Status](https://img.shields.io/badge/⚡_Status-Building-00d4aa?style=for-the-badge)](https://illli.cc)
-[![Year](https://img.shields.io/badge/📅_2025--2026-Active-3b82f6?style=for-the-badge)](https://illli.cc)
-
-*Independent AI Lab · Crafting Intelligent Experiences*
-
-<br>
-
-```
-🎯 构建 AI 原生应用 · 探索下一代人机交互体验
-```
-
-</div>
-
-<br>
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="280" valign="top">
 
-### 🚀 What We Build
+**🎯 Focus**
 
-| 领域 | 方向 |
-|:---:|:---|
-| � P| **智能工具** — AI 驱动的效率与创作 |
-| 🎨 | **创意应用** — 图像/文本/音视频生成 |
-| 🔮 | **创新实验** — Web3 · 新交互 · 前沿落地 |
+构建 AI 原生应用  
+探索下一代人机交互
 
-</td>
-<td width="50%" valign="top">
-
-### 💭 How We Think
-
-```diff
-+ 小团队，大产出
-! 一人精锐，胜过百人平庸
-
-+ 快迭代，深思考
-! 周级发布，年级规划
-
-+ 不追风，造风口
-! 独立判断，长期主义
-```
+`智能工具` `创意应用` `创新实验`
 
 </td>
-</tr>
-</table>
+<td width="280" valign="top">
 
-<br>
+**� Philosophy**
 
-<div align="center">
+小团队，大产出  
+快迭代，深思考  
+不追风，造风口
+
+</td>
+<td width="280" valign="top">
 
 ### 🛠 Tech Stack
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stable_Diffusion-FF6F00?style=flat-square"/>
-<br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
-<br><br>
+</td>
+</tr>
+</table>
 
 ---
 
-<sub>© 2025-2026 **illli Ai Studio** · <a href="https://illli.cc">illli.cc</a></sub>
-
-</div>
+<p align="center">
+  <sub>© 2025-2026 illli Ai Studio · <a href="https://illli.cc">illli.cc</a></sub>
+</p>
