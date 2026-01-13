@@ -20,24 +20,24 @@
 
 **🎯 Focus**
 
-构建 AI 原生应用  
-探索下一代人机交互
+一个人的工作室，专注于 AI 原生产品的创造。我不追求规模，只追求质量。每个项目都是一次从想法到成品的完整旅程——调研、设计、开发、上线，全部亲手完成。这是属于独立开发者的时代，而我正在其中探索。
 
 `智能工具` `创意应用` `创新实验`
 
 </td>
 <td width="280" valign="top">
 
-**� Philosophy**
+**🪄 Philosophy**
 
 小团队，大产出  
 快迭代，深思考  
 不追风，造风口
+ All is will✨
 
 </td>
 <td width="280" valign="top">
 
-### 🛠 Tech Stack
+** 🛠 Tech Stack**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"/>
