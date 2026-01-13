@@ -29,15 +29,16 @@
 
 **🪄 Philosophy**
 
+ All is will✨
 小团队，大产出  
 快迭代，深思考  
 不追风，造风口
- All is will✨
+
 
 </td>
 <td width="280" valign="top">
 
-** 🛠 Tech Stack**
+**🛠 Tech Stack**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"/>
