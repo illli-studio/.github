@@ -73,15 +73,6 @@
 
 ---
 
-## ✨ Philosophy
-
-**All is will**
-
-- Small team, big impact
-- Fast iteration, deep thinking  
-- Don't chase trends—create them
-
----
 
 ## 📬 Connect
 
