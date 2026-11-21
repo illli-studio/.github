@@ -21,7 +21,7 @@
     <td width="280" valign="top">
       <h3>🎯 Focus</h3>
       <p>
-        A solo studio crafting AI-native products. Quality over scale. Every project—from idea to launch—built by hand.
+        A solo creator turning ideas into working AI products. AI does the heavy lifting—I make the calls. Every project, from idea to launch, built by hand.
       </p>
       <p>
         <code>Intelligent Tools</code>
@@ -33,14 +33,15 @@
       <h3>🚀 Projects</h3>
       <p>
         <strong><a href="https://github.com/illli-studio/ui2v">ui2v</a></strong><br>
-        <sub>Transform UI designs into video animations</sub>
+        <sub>A local AI motion designer &amp; template registry—1,260+ reusable animations, free to remix</sub>
       </p>
       <p>
-        <strong><a href="https://github.com/illli-studio/skills">skills</a></strong><br>
-        <sub>AI-powered skill development platform</sub>
+        <strong><a href="https://github.com/illli-studio/mory">mory</a></strong><br>
+        <sub>The memory layer for AI—a local-first personal memory engine</sub>
       </p>
       <p>
-        <em>More projects coming soon...</em>
+        <strong><a href="https://github.com/illli-studio/ai-rss">ai-rss</a></strong><br>
+        <sub>WeChat article subscription automation—monitoring, daily digests &amp; Feishu push</sub>
       </p>
     </td>
     <td width="280" valign="top">
@@ -78,6 +79,7 @@
 
 - Website: [illli.cc](https://illli.cc)
 - GitHub: [@illli-studio](https://github.com/illli-studio)
+- Bilibili: [超灵感illli](https://space.bilibili.com/490796926)
 
 ---
 
