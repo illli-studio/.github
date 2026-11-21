@@ -43,6 +43,10 @@
         <strong><a href="https://github.com/illli-studio/ai-rss">ai-rss</a></strong><br>
         <sub>WeChat article subscription automation—monitoring, daily digests &amp; Feishu push</sub>
       </p>
+      <p>
+        <strong><a href="https://github.com/illli-studio/skills">skills</a></strong><br>
+        <sub>Agent skills collection for Claude Code, Codex &amp; Hermes</sub>
+      </p>
     </td>
     <td width="280" valign="top">
       <h3>🛠 Tech Stack</h3>
