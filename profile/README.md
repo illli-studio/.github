@@ -33,7 +33,7 @@
       <h3>🚀 Projects</h3>
       <p>
         <strong><a href="https://github.com/illli-studio/ui2v">ui2v</a></strong><br>
-        <sub>A local AI motion designer &amp; template registry—1,260+ reusable animations, free to remix</sub>
+        <sub>An npm-style registry for motion design—1,260+ reusable HyperFrames animation templates to install, remix &amp; publish</sub>
       </p>
       <p>
         <strong><a href="https://github.com/illli-studio/mory">mory</a></strong><br>
